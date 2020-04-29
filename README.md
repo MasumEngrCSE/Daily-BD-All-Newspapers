@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+Almost All Bangladeshi Newspapers you can read by This App.Faster loading,Small size and Less ads(gradually ads will be less for you if you stay long time in app).User friendly News interface.
 
-You can use the [editor on GitHub](https://github.com/MasumEngrCSE/Daily-BD-All-Newspapers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+🌕 <b>Bangladeshi Newspapers</b>
+Below Listed Type of Bangladeshi Newspapers are available in this APP: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<b>✴ National Newspapers :</b>
+✓ Prothom Alo
+✓ Inqilab
+✓ Bangladesh Protidin
+✓ Ittefaq
+✓ kaler kantho 
+✓ Naya Diganta
+✓ Manabzamin
+✓ Samakal
+✓ Janakantha
+✓ Jugantor
+✓ Jai Jai Din
+✓ Suprobhat
+✓ Bonik Barta
+✓ Dinkal
+✓ Desh Rupantor
+✓ Amar Desh
+<b>✴ Online Newspapers:</b>
+✓ BD News 24
+✓ priyo.com
+✓ Bd24live
+✓ Risingbd
+✓ Poriborton
+✓ DMP News
+<b>✴ English Newspapers</b>
+✓ The Daily Star
+✓ Daily Sun
+✓ The Bangladesh Today
+✓ The Daily Observer
+✓ NewsToday
+<b>✴ Popular International TV Channels:</b>
+✓ CNN
+✓ Aljazeera
+✓ BBC
+✓ Foxnews
+✓ CCTV
+<b>✴ Business Newspapers:</b>
+✓ Dhaka & Chittagong Stock_Exchange
+✓ Arthosuchak
+✓ Sharenews24
+<b>✴ Magazine:</b>
+✓ Abasar
+✓ Ananda Alo
+✓ Corporate
+✓ Campus Live 24
+✓ Sananda
+✓ Anandamela
+<b>✴ Sports:</b>
+✓ BD Cric Time
+✓ ESPN Cricinfo
+✓ Sky Sports
+✓ cricbuzz
+✓ FIFA
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MasumEngrCSE/Daily-BD-All-Newspapers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+... and many more
+<b>☆ all bangla newspapers</b> 
+<b>☆ Bangladeshi Newspapers in English</b> 
+<b>☆ Bangla News Sites</b> 
+<b>☆ bangla news</b> 
+<b>☆ bangla newspaper</b> 
+<b>☆ newspapers</b> 
+<b>☆ Bangladeshi Sports news</b>
+<b>☆ International Sports news</b>
+<b>☆ Cricket news</b>
+<b>☆ Football news</b>
+<b>☆ All Sports news</b>
+<b>☆ bangla magazine</b>
