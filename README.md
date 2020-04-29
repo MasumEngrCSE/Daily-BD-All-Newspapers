@@ -1,8 +1,9 @@
 
 
-<iframe src="https://play.google.com/store/apps/details?id=com.news.newspaperread" style="border: none;"></iframe>
 
-
+<p><a href="https://play.google.com/store/apps/details?id=com.news.newspaperread" target="myFrame">App Link
+  <br>
+<br>
 Almost All Bangladeshi Newspapers you can read by This App.Faster loading,Small size and Less ads(gradually ads will be less for you if you stay long time in app).User friendly News interface.
 
 🌕 <b>Bangladeshi Newspapers</b>
